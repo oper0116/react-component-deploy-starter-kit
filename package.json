@@ -1,0 +1,27 @@
+{
+  "name": "react-component-deploy-starter-kit",
+  "version": "1.0.0",
+  "description": "React Component 개발을 위한 StarterKit",
+  "main": "build/index.js",
+  "module": "build/index.es.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "author": "oper0116",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.35",
+    "@types/react-dom": "^16.9.8",
+    "rollup": "^2.10.4",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-peer-deps-external": "^2.2.2",
+    "rollup-plugin-typescript2": "^0.27.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts-ts": "^3.1.0",
+    "typescript": "^3.9.2"
+  }
+}
