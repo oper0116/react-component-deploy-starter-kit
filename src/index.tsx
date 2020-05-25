@@ -5,7 +5,7 @@ interface IProps {
 }
 
 const Component = (props: IProps) => {
-  return <div>{this.props.text}</div>
+  return <div>{props.text}</div>
 }
 
 export default Component;

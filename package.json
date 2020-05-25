@@ -9,8 +9,7 @@
   },
   "author": "oper0116",
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/react": "^16.9.35",
     "@types/react-dom": "^16.9.8",
